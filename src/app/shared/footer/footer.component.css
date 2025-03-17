@@ -1,0 +1,18 @@
+/* footer.component.css */
+
+/* Footer container */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+/* Footer text */
+footer p {
+    margin: 0;
+    font-size: 14px;
+}

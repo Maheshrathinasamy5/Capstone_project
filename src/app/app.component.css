@@ -1,0 +1,32 @@
+/* app.component.css */
+
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Main container */
+main {
+    min-height: 80vh; /* Ensures enough space for content */
+    padding: 20px;
+    background: #f8f9fa;
+}
+
+/* Header and Footer styling */
+app-header, app-footer {
+    display: block;
+    width: 100%;
+}
+
+/* Ensure footer stays at the bottom */
+app-footer {
+    text-align: center;
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
