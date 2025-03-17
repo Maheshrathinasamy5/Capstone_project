@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "john.doe@example.com",
+      "password": "password123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "location": "New York",
+      "mobileNumber": "1234567890"
+    },
+    {
+      "id": 2,
+      "email": "jane.smith@example.com",
+      "password": "password456",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "location": "Los Angeles",
+      "mobileNumber": "0987654321"
+    },
+    {
+      "email": "mahesh1234@gmail.com",
+      "password": "12345678",
+      "firstName": "Mahesh",
+      "lastName": "R",
+      "location": "Aarakulam",
+      "mobileNumber": "8056783659",
+      "id": 3
+    },
+    {
+      "email": "maheshrathinasamy5@gmail.com",
+      "password": "123456789",
+      "firstName": "Mahesh ",
+      "lastName": "Rathinasamy",
+      "location": "Aarakulam",
+      "mobileNumber": "8056783659",
+      "id": 4
+    },
+    {
+      "email": "20ee054@kpriet.ac.in",
+      "password": "1234567890",
+      "firstName": "gokul",
+      "lastName": "R",
+      "location": "Palladam",
+      "mobileNumber": "9894303659",
+      "id": 5
+    },
+    {
+      "email": "maheshrathinasamy5@gmail.com",
+      "password": "123456789",
+      "firstName": "Mahesh ",
+      "lastName": "Rathinasamy",
+      "location": "Aarakulam",
+      "mobileNumber": "8056783659",
+      "id": 6
+    },
+    {
+      "email": "naveen@gmail.com",
+      "password": "12345678",
+      "firstName": "naveen",
+      "lastName": "nave",
+      "location": "chennai",
+      "mobileNumber": "9876543210",
+      "id": 7
+    },
+    {
+      "email": "gokulmahesh03@gmail.com",
+      "password": "Mahesh@04",
+      "firstName": "Gokul",
+      "lastName": "R",
+      "location": "Coimbatore",
+      "mobileNumber": "1234567890",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "id": 101,
+      "name": "Laptop",
+      "description": "A powerful gaming laptop",
+      "manufacturer": "HP",
+      "price": 1200,
+      "quantity": 10
+    },
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "description": "Latest smartphone with 5G",
+      "manufacturer": "Mobile Inc",
+      "manufacturingDate": "2024-02-15",
+      "price": 800,
+      "quantity": 25
+    },
+    {
+      "id": 1742100109347,
+      "name": "Mobile",
+      "description": "One of the best phone with the camera quality and battery",
+      "manufacturer": "Samsung",
+      "price": 30000,
+      "quantity": 10
+    }
+  ]
+}
